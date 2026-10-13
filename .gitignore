@@ -1,0 +1,6 @@
+# Szerkesztõk / rendszerfájlok
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.log
